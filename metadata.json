@@ -1,0 +1,8 @@
+{
+  "name": "HabitCurb",
+  "description": "A gamified carbon footprint companion and smart habit coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
